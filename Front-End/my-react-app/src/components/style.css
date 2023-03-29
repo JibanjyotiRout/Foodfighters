@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    background-color: #3ebf9b;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: bold;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+  }
+  
+  #hero {
+    align-items: center;
+    background-color: #ACE1AF;
+    width:auto;
+    height: auto;
+    padding: 60px;
+    text-align: center;
+    background-repeat: no-repeat;
+  }
+  
+  
+  .cta-button {
+    background-color: #3ebf9b;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  
+  footer {
+    background-color: #3ebf9b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+
+
+
+  .textp{
+    color:darkslategrey;
+    text-align: center;
+  }
+  .add{
+    padding-top: 15px;
+  }
+  main h2{
+    color:lavenderblush;
+  }
+  .topp{
+    display: block;
+  }
+#pending{
+  background-color: black;
+}
+.container-about{
+  background-color: #333;
+}
+.abt-textt{
+  color: #FFF;
+}
