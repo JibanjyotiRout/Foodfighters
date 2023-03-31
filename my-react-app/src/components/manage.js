@@ -21,7 +21,7 @@ function Manage() {
                 
             </tr>
             <tr>
-                <td>John Doe</td>
+                <td>Hemant</td>
                 <td>Food</td>
                 <td>20 kg</td>
                 

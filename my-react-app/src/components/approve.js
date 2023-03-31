@@ -19,9 +19,9 @@ function Approve() {
                 <th>Donation Quantity</th>
             </tr>
             <tr>
-                <td>Jane Smith</td>
+                <td>Jiban</td>
                 <td>Food</td>
-                <td>15 kg</td>
+                <td>5 kg</td>
             </tr>
         </table>
     </section>
